@@ -1,0 +1,37 @@
+/*--------------------
+# program page
+----------------------*/
+.program-page h3 {
+  margin: 15px;
+  padding: 15px 0;
+}
+
+.wrapper > div {
+  padding-bottom: 15px;
+}
+
+div.programs-content{
+  padding: 15px;
+  background-color: white;
+  min-height: 250px;
+}
+
+
+.program-page img {
+  width: 100%;
+}
+
+.children h3 {
+  border-bottom: 2px solid #af272f;
+  color: #af272f
+}
+
+.adults h3 {
+  border-bottom: 2px solid #63b1bc;
+  color: #63b1bc;
+}
+
+.seniors h3 {
+  border-bottom: 2px solid #425563;
+  color: #425563;
+}
